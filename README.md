@@ -14,7 +14,7 @@ Check out my [coding portfolio!](https://sumanmportfolio.netlify.app/)
 I am a fourth-year Computer Science Engineering student with a GPA of 8.78. I have completed internships at **, gaining practical experience in software development and testing. I am passionate about machine learning, blockchain, and full-stack development, and I am eager to contribute to innovative projects in the field.
 
 
-- [Instagram](https://www.instagram.com/swerikcodes/)
+- [Instagram](https://www.instagram.com/suman._.03/)
 
 
 ## 🌐 Connect with me:
