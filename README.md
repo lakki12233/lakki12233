@@ -11,7 +11,7 @@ Check out my [coding portfolio!](https://sumanmportfolio.netlify.app/)
 
 ## 🎓 About Me
 
-I am a fourth-year Computer Science Engineering student with a GPA of 8.78. I have completed internships at L&T Technology Services Ltd and HCL Technologies, gaining practical experience in software development and testing. I am passionate about machine learning, blockchain, and full-stack development, and I am eager to contribute to innovative projects in the field.
+I am a fourth-year Computer Science Engineering student with a GPA of 8.78. I have completed internships at **, gaining practical experience in software development and testing. I am passionate about machine learning, blockchain, and full-stack development, and I am eager to contribute to innovative projects in the field.
 
 
 - [Instagram](https://www.instagram.com/swerikcodes/)
@@ -35,8 +35,8 @@ Developer Tools:
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) 
 ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=flat&logo=remix&logoColor=white)
 
+
 Libraries/Frameworks: 
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
@@ -47,10 +47,12 @@ Libraries/Frameworks:
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=lakki12233&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakki12233&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
