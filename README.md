@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Suman Mandava</h1>
 
 # 💫 About Me:
-I am a fourth-year computer science engineering student at St. Joseph's College, passionate about exploring the realms of coding, machine learning, and building robust applications
+Hi, I’m Suman Mandava, currently pursuing a Master of Science in Computer Science focusing on AI and Machine Learning at the State University of New York at Buffalo. I’m passionate about coding, machine learning, and building robust applications, and I have experience as a Full Stack Developer.
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
@@ -11,8 +11,7 @@ Check out my [coding portfolio!](https://sumanmportfolio.netlify.app/)
 
 ## 🎓 About Me
 
-I am a fourth-year Computer Science Engineering student with a GPA of 8.78. I have completed internships at **, gaining practical experience in software development and testing. I am passionate about machine learning, blockchain, and full-stack development, and I am eager to contribute to innovative projects in the field.
-
+Hi, I’m Suman Mandava. I have completed my undergraduate studies in BE Computer Science Engineering with a CGPA of 8.87. I have completed internships at HCLTech, L&T Technology Services, and Centum T&S, gaining practical experience in software development and testing. I am passionate about machine learning, blockchain, and full-stack development, and I am eager to contribute to innovative projects in the field.
 
 - [Instagram](https://www.instagram.com/suman._.03/)
 
