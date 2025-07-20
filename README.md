@@ -7,7 +7,7 @@ Hi, I’m Suman Mandava, currently pursuing a Master of Science in Computer Scie
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building Node.js applications with MongoDB.
 
-Check out my [coding portfolio!](https://sumanmportfolio.netlify.app/)
+Check out my [coding portfolio!](https://sumanportfolio-zeta.vercel.app/)
 
 ## 🎓 About Me
 
