@@ -1,17 +1,27 @@
 <h1 align="center">Hi 👋 I'm Suman Mandava</h1>
+<h3 align="center">Software Engineer | Full Stack Developer | ML Enthusiast</h3>
 
-# 💫 About Me:
-Hi, I’m Suman Mandava, currently pursuing a Master of Science in Computer Science focusing on AI and Machine Learning at the State University of New York at Buffalo. I’m passionate about coding, machine learning, and building robust applications, and I have experience as a Full Stack Developer.
-## 🚀 What I'm Up To
+---
 
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building Node.js applications with MongoDB.
+## 💫 About Me
 
-Check out my [coding portfolio!](https://sumanportfolio-zeta.vercel.app/)
+I’m Suman Mandava, a Software Engineer with a Master of Science in Computer Science (AI & Machine Learning) from the **State University of New York at Buffalo**. I enjoy building scalable applications, writing clean and efficient code, and solving real-world problems using technology.
 
-## 🎓 About Me
+I have hands-on experience in **full-stack development**, backend systems, and applied machine learning, and I’m actively seeking **Software Engineer / Full Stack Engineer** roles.
 
-Hi, I’m Suman Mandava. I have completed my undergraduate studies in BE Computer Science Engineering with a CGPA of 8.87. I have completed internships at HCLTech, L&T Technology Services, and Centum T&S, gaining practical experience in software development and testing. I am passionate about machine learning, blockchain, and full-stack development, and I am eager to contribute to innovative projects in the field.
+🔗 **Portfolio:** [https://sumanportfolio-zeta.vercel.app](https://sumanportfolio-zeta.vercel.app)
+
+---
+
+## 🎓 Education
+
+- **M.S. in Computer Science (AI & ML)**  
+  State University of New York at Buffalo
+
+- **B.E. in Computer Science Engineering**  
+  CGPA: **8.87**
+
+---
 
 - [Instagram](https://www.instagram.com/suman._.03/)
 
