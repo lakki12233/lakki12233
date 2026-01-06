@@ -17,9 +17,10 @@ I have hands-on experience in **full-stack development**, backend systems, and a
 
 - **M.S. in Computer Science (AI & ML)**  
   State University of New York at Buffalo
+  GPA: **3.8**
 
 - **B.E. in Computer Science Engineering**  
-  CGPA: **8.87**
+  CGPA: **3.6**
 
 ---
 
