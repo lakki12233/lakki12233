@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Suman Mandava</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | ML Enthusiast</h3>
+<h3 align="center">Software Engineer | AI/ML Enthusiast</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 I’m Suman Mandava, a Software Engineer with a Master of Science in Computer Science (AI & Machine Learning) from the **State University of New York at Buffalo**. I enjoy building scalable applications, writing clean and efficient code, and solving real-world problems using technology.
 
-I have hands-on experience in **full-stack development**, backend systems, and applied machine learning, and I’m actively seeking **Software Engineer / Full Stack Engineer** roles.
+I have hands-on experience in **full-stack development**, backend systems, and applied machine learning, and I’m actively seeking **Software Engineer ** roles.
 
 🔗 **Portfolio:** [https://sumanportfolio-zeta.vercel.app](https://sumanportfolio-zeta.vercel.app)
 
